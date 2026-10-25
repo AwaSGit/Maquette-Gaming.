@@ -16,7 +16,7 @@ Cette page présente plusieurs thèmes liés à l'univers du jeu vidéo :
 
 - HTML pour structurer le contenu d'une page statique ;
 - CSS pour la mise en page, les couleurs, la typographie et le recadrage des images ;
-- CSS Grid pour les galeries etgit push -u origin main les sections en colonnes ;
+- CSS Grid pour les galeries et les sections en colonnes ;
 - Flexbox pour aligner les éléments de navigation et du pied de page ;
 - des media queries pour adapter la mise en page aux petits écrans ;
 - des images locales et des textes alternatifs (`alt`) pour les décrire.
